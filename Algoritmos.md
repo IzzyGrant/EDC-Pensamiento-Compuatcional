@@ -11,16 +11,18 @@ Aquí te presento un ejemplo de un algoritmo sencillo para hacer un sándwich de
 
 Ingredientes:
 
-Pan de molde
-Jamón cocido
-Queso en lonchas
-Mantequilla o margarina
+a. Pan de molde
+b. Jamón cocido
+c. Queso en lonchas
+d. Mantequilla o margarina
+
+
 Instrucciones:
 
-Tostar el pan de molde en una tostadora o en una sartén caliente.
-Untar mantequilla o margarina en una de las rebanadas de pan tostado.
-Colocar una loncha de queso y una de jamón encima de la rebanada de pan con la mantequilla o margarina.
-Cubrir con la otra rebanada de pan tostado.
-Cortar el sándwich en dos mitades si lo deseas.
-Servir y disfrutar.
-Este algoritmo es mucho más simple que el anterior, y se trata de una tarea que se puede realizar fácilmente en poco tiempo. Los algoritmos nos permiten organizar las tareas de manera secuencial para lograr resultados específicos
+1. Tostar el pan de molde en una tostadora o en una sartén caliente.
+2. Untar mantequilla o margarina en una de las rebanadas de pan tostado.
+3. Colocar una loncha de queso y una de jamón encima de la rebanada de pan con la mantequilla o margarina.
+4. Cubrir con la otra rebanada de pan tostado.
+5. Cortar el sándwich en dos mitades si lo deseas.
+6. Servir y disfrutar.
+
