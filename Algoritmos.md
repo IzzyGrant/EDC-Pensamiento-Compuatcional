@@ -12,8 +12,11 @@ Aquí te presento un ejemplo de un algoritmo sencillo para hacer un sándwich de
 Ingredientes:
 
 a. Pan de molde
+
 b. Jamón cocido
+
 c. Queso en lonchas
+
 d. Mantequilla o margarina
 
 
