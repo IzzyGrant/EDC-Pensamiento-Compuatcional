@@ -1,4 +1,4 @@
-# 🤔 EDC-Pensamiento-Compuatcional
+# 🤔 EDC-Pensamiento-Computacional
 
 Repositorio de apoyo para Taller de Pensamiento Computacional Escuela de Código/PILARES
 
