@@ -7,7 +7,7 @@ Repositorio de apoyo para Taller de Pensamiento Computacional Escuela de Código
  + 1.1 🔁 Algoritmo (✔)
  + 1.2 ➕ Operadores (✔)
  + 1.3 💻 Conceptos básicos de programación (✔)
- + 1.4 📄 Tipos de Datos (❌)
+ + 1.4 📄 Tipos de Datos (✔)
  + 1.5 1️⃣ Variables (❌)
  + 1.6 ⬇ Diagramas (❌)
  + 1.7 🛠 Estructuras (❌)
