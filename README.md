@@ -19,3 +19,27 @@ Repositorio de apoyo para Taller de Pensamiento Computacional Escuela de Código
  + 1.7 🛠 Estructuras (❌)
 
  + 1.8 📝Introducción al diseño del pseudocódigo (❌)
+
+
+## 📚 Referencias:
+
+ + 📕 [Figueroa Reséndiz J., (2007) Guías y textos de cómputo: Introducción a la programación, 
+Dirección General de Servicios de Cómputo Académico UNAM.](https://drive.google.com/file/d/18Tjzd09-9JXXWrlGfCOelJCEr5bobrJn/view)
+
+ + 📗 [Pinales Delgado F.J., Velázquez Amador C.E. (2014). Problemario de algoritmos resueltos 
+con digramas de flujo y pseudocódigo, Universidad Autónoma de Aguscaliesntes Editorial.]( https://editorial.uaa.mx/catalogo/ccb_algoritmos_9786078285969.html
+)
+
+ + 📘 [Unidades de Apoyo para el Aprendizaje-UNAM, Algoritmos Matemáticas, 
+CUAED/Bachillerato a Distancia-UNAM.](https://uapa.cuaieed.unam.mx/node/831)
+
+ + 📙 [Unidades de Apoyo para el Aprendizaje-UNAM, Algoritmos: Diagramas de flujo,
+CUAED/Bachillerato a Distancia-UNAM.](https://uapa.cuaieed.unam.mx/node/824)
+ 
+ + 📒 [Unidades de Apoyo para el Aprendizaje-UNAM, Algoritmos: pseudocódigo,
+CUAED/Bachillerato a Distancia-UNAM](https://uapa.cuaieed.unam.mx/node/810)
+
+ + 📕 [Unidades de Apoyo para el Aprendizaje-UNAM, Variables y constantes , CUAED/Bachillerato 
+a Distancia-UNAM.](https://uapa.cuaieed.unam.mx/node/806)
+
+😁
