@@ -10,11 +10,11 @@ Repositorio de apoyo para Taller de Pensamiento Computacional Escuela de Código
 
  + 1.3 💻 [Conceptos básicos de programación](https://github.com/IzzyGrant/EDC-Pensamiento-Compuatcional/blob/main/3.%20Conceptos%20B%C3%A1sicos%20de%20Programaci%C3%B3n.md) (✔)
 
- + 1.4 📄 [Tipos de Datos](https://github.com/IzzyGrant/EDC-Pensamiento-Compuatcional/blob/main/4.%20Tipos%20de%20Datos.md) (✔)
+ + 1.4 📄 [Tipos de datos](https://github.com/IzzyGrant/EDC-Pensamiento-Compuatcional/blob/main/4.%20Tipos%20de%20Datos.md) (✔)
 
  + 1.5 1️⃣ [Variables](https://github.com/IzzyGrant/EDC-Pensamiento-Compuatcional/blob/main/5.%20Variables.md) (✔)
 
- + 1.6 ⬇ Diagramas (❌)
+ + 1.6 ⬇ [Diagramas de flujo](https://github.com/IzzyGrant/EDC-Pensamiento-Compuatcional/blob/main/6.%20Diagramas%20de%20Flujo.md) (✔)
 
  + 1.7 🛠 Estructuras (❌)
 
