@@ -16,7 +16,7 @@ Repositorio de apoyo para Taller de Pensamiento Computacional Escuela de Código
 
  + 1.6 ⬇ [Diagramas de flujo](https://github.com/IzzyGrant/EDC-Pensamiento-Compuatcional/blob/main/6.%20Diagramas%20de%20Flujo.md) (✔)
 
- + 1.7 🛠 Estructuras (❌)
+ + 1.7 🛠 [Estructuras](https://github.com/IzzyGrant/EDC-Pensamiento-Compuatcional/blob/main/7.%20Estructuras%20de%20Control.md) (✔)
 
  + 1.8 📝Introducción al diseño del pseudocódigo (❌)
 
